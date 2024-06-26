@@ -28,7 +28,7 @@ USAGE
 Use the tabs at the bottom to switch between the Home and Settings screens. Change the theme from light to dark or vice versa in the Settings screen.
 
 SCREENSHOTS
-![Home Screen Light Theme](assets/lighthome.jpg)
-![Settings Screen Light Theme](assets/lightsettings.jpg)
-![Home Screen Dark Theme](assets/darkhome.jpg)
-![Settings Screen Dark Theme](assets/darksettings.jpg)
+![lighthome](https://github.com/AdwoaAkonnor/rn-assignment5-11253248/assets/170194218/c1723ec4-1f24-4feb-94df-26d7da2f740a)
+![lightsettings](https://github.com/AdwoaAkonnor/rn-assignment5-11253248/assets/170194218/e5c13f30-5968-47c5-9ebf-09438b114673)
+![darkhome](https://github.com/AdwoaAkonnor/rn-assignment5-11253248/assets/170194218/74e2ec66-efb2-4128-9fbe-2579262e5f9b)
+![darksettings](https://github.com/AdwoaAkonnor/rn-assignment5-11253248/assets/170194218/13d9e5cc-22b4-4763-98a5-8ac2aed37c18)
